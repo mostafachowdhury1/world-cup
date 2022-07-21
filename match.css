@@ -6,7 +6,7 @@
 
 
 body{
-    background-color:red;
+   
     overflow-x: hidden;
 }
 /*main*************************/
@@ -17,7 +17,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-   background-color: white;
+   background-color: #b6ccec;
     padding: 40px 0px;
     overflow: hidden;
 
@@ -86,7 +86,7 @@ header .header-image{
 }
 
 header .header-image img{
-    height: 70vh;
+    height: 59vh;
     object-position: left;
     object-fit: cover;
    
@@ -143,8 +143,8 @@ border: 1px solid white;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-   
-    border: 1px solid gray;
+    background-color:rgba(132, 218, 214, 0.459);
+    border: 1px solid rgb(61, 61, 61);
 }
 
 
@@ -361,7 +361,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-      
+       
         width: 100%;
         display: flex;
         flex-direction:row;
@@ -456,7 +456,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-     
+       
         width: 100%;
         display: flex;
         flex-direction:row;
@@ -556,7 +556,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-        
+      
         width: 100%;
         display: flex;
         flex-direction:column;
@@ -669,7 +669,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-    
+       
         width: 100%;
         display: flex;
         flex-direction: column;

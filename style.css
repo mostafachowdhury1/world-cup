@@ -352,7 +352,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-    
+  
         width: 100%;
         display: flex;
         flex-direction:row;
@@ -386,16 +386,17 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
     
 
     header .header-image{
-        width: 100%;
+        width: 50%;
         display: flex;
-      
+        align-items: center;
         justify-content: center;
+      
         
     }
     
     header .header-image img{
-        height: 47vh;
-        object-position: left;
+        height: 50vh;
+        margin-bottom: 0px;
         object-fit: cover;
        
     }
@@ -447,8 +448,8 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-       
-        width: 80%;
+      
+        width: 100%;
         display: flex;
         flex-direction:row;
         border-radius: 5px;
@@ -483,13 +484,13 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
     header .header-image{
         width: 100%;
         display: flex;
-      
+        align-items: center;
         justify-content: center;
         
     }
     
     header .header-image img{
-        height: 40vh;
+        height: 70vh;
         object-position: left;
         object-fit: cover;
        
@@ -546,7 +547,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-      
+       
         width: 100%;
         display: flex;
         flex-direction:column;
@@ -757,7 +758,7 @@ animation:icons 1.5s  1.5s ease-in infinite forwards;
         padding: 10px 0xpx ;
     }
     header{
-        background-color:maroon;;
+      
         width: 100%;
         display: flex;
         flex-direction: column;
