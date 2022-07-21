@@ -14,7 +14,7 @@ font-family: 'Poppins', sans-serif;
 font-weight: 300;
 }
 body{
-    background-color:red;
+   
     overflow-x: hidden;
      
  
@@ -113,6 +113,7 @@ header .header-image img{
     justify-content: center;
     padding:50px 0px;
     gap:30px;
+  
     
 }
 
@@ -210,7 +211,7 @@ grid-gap: 10px;
 
 .icon{
     display: flex;
-    padding: 5px 5px;
+    padding: 2px 5px;
     justify-content:start;
     margin-top: 5px;
     width: 120px;
@@ -219,6 +220,9 @@ grid-gap: 10px;
     
 }
 
+.icon i{
+    color:orange;
+}
 .second{
     margin-left: 30px;
    
